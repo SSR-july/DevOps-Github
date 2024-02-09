@@ -1,8 +1,2 @@
-Hi Dude
-<<<<<<< HEAD
-Hi babyy
+Hi bay
 
-=======
-Hi baby
-hiii
->>>>>>> mass
